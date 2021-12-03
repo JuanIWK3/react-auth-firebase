@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/react-auth-firebase/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-auth-firebase/static/js/main.8d9fe8ef.chunk.js",
-    "main.js.map": "/react-auth-firebase/static/js/main.8d9fe8ef.chunk.js.map",
-    "runtime-main.js": "/react-auth-firebase/static/js/runtime-main.dea523c0.js",
-    "runtime-main.js.map": "/react-auth-firebase/static/js/runtime-main.dea523c0.js.map",
-    "static/js/2.9d87a5f7.chunk.js": "/react-auth-firebase/static/js/2.9d87a5f7.chunk.js",
-    "static/js/2.9d87a5f7.chunk.js.map": "/react-auth-firebase/static/js/2.9d87a5f7.chunk.js.map",
-    "static/js/3.9f725fd3.chunk.js": "/react-auth-firebase/static/js/3.9f725fd3.chunk.js",
-    "static/js/3.9f725fd3.chunk.js.map": "/react-auth-firebase/static/js/3.9f725fd3.chunk.js.map",
+    "main.js": "/react-auth-firebase/static/js/main.df867836.chunk.js",
+    "main.js.map": "/react-auth-firebase/static/js/main.df867836.chunk.js.map",
+    "runtime-main.js": "/react-auth-firebase/static/js/runtime-main.ba2f04cc.js",
+    "runtime-main.js.map": "/react-auth-firebase/static/js/runtime-main.ba2f04cc.js.map",
+    "static/css/2.4659568d.chunk.css": "/react-auth-firebase/static/css/2.4659568d.chunk.css",
+    "static/js/2.38c9b72d.chunk.js": "/react-auth-firebase/static/js/2.38c9b72d.chunk.js",
+    "static/js/2.38c9b72d.chunk.js.map": "/react-auth-firebase/static/js/2.38c9b72d.chunk.js.map",
     "index.html": "/react-auth-firebase/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/react-auth-firebase/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.9d87a5f7.chunk.js.LICENSE.txt": "/react-auth-firebase/static/js/2.9d87a5f7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-auth-firebase/static/media/logo.6ce24c58.svg"
+    "static/css/2.4659568d.chunk.css.map": "/react-auth-firebase/static/css/2.4659568d.chunk.css.map",
+    "static/js/2.38c9b72d.chunk.js.LICENSE.txt": "/react-auth-firebase/static/js/2.38c9b72d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dea523c0.js",
-    "static/js/2.9d87a5f7.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.8d9fe8ef.chunk.js"
+    "static/js/runtime-main.ba2f04cc.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.38c9b72d.chunk.js",
+    "static/js/main.df867836.chunk.js"
   ]
 }
